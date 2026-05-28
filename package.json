@@ -1,0 +1,9 @@
+{
+  "name": "surge-runner",
+  "version": "1.0.0",
+  "description": "SURGE RUNNER — Geo Trades Solana",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^5.0.0"
+  }
+}
